@@ -13,3 +13,5 @@
 * A.split(): split A 
 * quotient: a//b
 * remainder: a%b
+## 1330
+* if/elif/else
