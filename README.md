@@ -31,3 +31,18 @@
     + use str() or int() to change data type
 * "%s" %(a)- add a string value(a) into a string
 * strings can be multiplied
+## while statement - 10952, 10951
+* while condition: - loop will not end until the condition is false
+* how to remove an item from a list
+    + list.clear - clear all items from the list
+    + list.pop(a) - take out a(index) from the list
+        - if a is negative, count the index backward
+            * -1 indicates the last item
+        - list.pop() - take out the last item in the list
+    + list.remove(a) - remove item in the list by value
+    + del list[i] - delete the item by index
+        - del can remove specific range in the list
+* try - except
+    + try: - execute the following code if there's no error
+    + except: - if error occurs in try:, execute the code after except:
+* break - escape the loop
