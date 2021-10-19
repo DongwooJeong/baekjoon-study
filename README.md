@@ -46,3 +46,7 @@
     + try: - execute the following code if there's no error
     + except: - if error occurs in try:, execute the code after except:
 * break - escape the loop
+## one-dimensional array
+* max(list): find the largest number from the list
+* min(list): find the smallest number from the list
+* list.index(value): find the index number of the value in the list
