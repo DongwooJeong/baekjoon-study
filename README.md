@@ -46,7 +46,15 @@
     + try: - execute the following code if there's no error
     + except: - if error occurs in try:, execute the code after except:
 * break - escape the loop
-## one-dimensional array
+## one-dimensional array - 2562, 10818, 2577
 * max(list): find the largest number from the list
 * min(list): find the smallest number from the list
 * list.index(value): find the index number of the value in the list
+* X = [int(k) for k in str(N)]: X is a list of integer k, where k is each letter from N converted into a string
+* list(N): make a list where each component of N becomes an item of the list, N should be a string
+* list.count(A): return how many As are in the list
+* A in L: boolean type showing if A is in L(list)
+* set(list): remove the duplicate item in the list
+* len(list): return how many items are in the list
+* list(map(int, input().split())): can get several inputs in a list
+* average(list) = sum(list)/len(list)
