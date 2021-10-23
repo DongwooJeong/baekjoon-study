@@ -46,7 +46,7 @@
     + try: - execute the following code if there's no error
     + except: - if error occurs in try:, execute the code after except:
 * break - escape the loop
-## one-dimensional array - 10818, 2562, 2577, 3052, 1546, 8958*, 4344
+## one-dimensional array - 10818, 2562, 2577, 3052, 1546, *8958, 4344
 * max(list): find the largest number from the list
 * min(list): find the smallest number from the list
 * list.index(value): find the index number of the value in the list
@@ -58,4 +58,7 @@
 * len(list): return how many items are in the list
 * list(map(int, input().split())): can get several inputs in a list
 * average(list) = sum(list)/len(list)
-* Percentage="{:.n%}".format(number) - format number as a percentage with n decimal places 
+* Percentage="{:.n%}".format(number) - format number as a percentage with n decimal places
+## function - 15596, *4673, *1065
+* format of function - def ~: return ~
+
