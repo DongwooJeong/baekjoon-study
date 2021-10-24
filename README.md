@@ -61,4 +61,6 @@
 * Percentage="{:.n%}".format(number) - format number as a percentage with n decimal places
 ## function - 15596, *4673, *1065
 * format of function - def ~: return ~
-
+## String - 11654, 11720, 10809, 2675, 1157, 1152
+* ord(): string into ascii code
+    + chr(): vice versa 
