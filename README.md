@@ -13,9 +13,11 @@
 * A.split(): split A 
 * quotient: a//b
 * remainder: a%b
+***
 ## if statement - 1330, 9498, 2753, 14681, 2884
 * if/elif/else
 * multiple of n: X%n == 0
+***
 ## for statement - 2739,10950, 8393, 15552, 2741, 2742, 11021, 11022, 2438, 2439, 10871
 * for i in range(a,b):
     + range(a): from 0 to a-1
@@ -31,6 +33,7 @@
     + use str() or int() to change data type
 * "%s" %(a)- add a string value(a) into a string
 * strings can be multiplied
+***
 ## while statement - 10952, 10951
 * while condition: - loop will not end until the condition is false
 * how to remove an item from a list
@@ -46,6 +49,7 @@
     + try: - execute the following code if there's no error
     + except: - if error occurs in try:, execute the code after except:
 * break - escape the loop
+***
 ## one-dimensional array - 10818, 2562, 2577, 3052, 1546, *8958, 4344
 * max(list): find the largest number from the list
 * min(list): find the smallest number from the list
@@ -59,8 +63,11 @@
 * list(map(int, input().split())): can get several inputs in a list
 * average(list) = sum(list)/len(list)
 * Percentage="{:.n%}".format(number) - format number as a percentage with n decimal places
+***
 ## function - 15596, *4673, *1065
 * format of function - def ~: return ~
-## String - 11654, 11720, 10809, 2675, 1157, 1152
+***
+## String - 11654, 11720, 10809, 2675, 1157, 1152, 2908, 5622
 * ord(): string into ascii code
     + chr(): vice versa 
+* [::-1]: arrange the number in reverse order
