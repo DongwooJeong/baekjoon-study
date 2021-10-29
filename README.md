@@ -67,8 +67,11 @@
 ## function - 15596, *4673, *1065
 * format of function - def ~: return ~
 ***
-## String - 11654, 11720, 10809, 2675, 1157, 1152, 2908, 5622, 2941
+## String - 11654, 11720, 10809, 2675, 1157, 1152, 2908, 5622, 2941, 1316
 * ord(): string into ascii code
     + chr(): vice versa 
 * [::-1]: arrange the number in reverse order
 * string.replace(a,b): replace a in string with b
+* string[n:]: string starting from nth index
+    + ex) apple[1:] => pple
+* string.count(A): count the number of A in the string
