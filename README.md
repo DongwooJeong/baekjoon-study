@@ -75,3 +75,4 @@
 * string[n:]: string starting from nth index
     + ex) apple[1:] => pple
 * string.count(A): count the number of A in the string
+## Basic Math 1 - 1712, 2292
