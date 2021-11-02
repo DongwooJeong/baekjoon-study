@@ -76,6 +76,7 @@
     + ex) apple[1:] => pple
 * string.count(A): count the number of A in the string
 ***
-## Basic Math 1 - 1712, 2292, 1193, 2869
+## Basic Math 1 - 1712, 2292, 1193, 2869, 10250, 2775
 * sep='k': replace the separator between the arguments in print() function with the one inside the quotes
 * iteration takes a long time to calculate
+* from math import factorial: factorial(n) would return the factorial of n
