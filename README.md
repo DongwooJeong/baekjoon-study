@@ -80,3 +80,8 @@
 * sep='k': replace the separator between the arguments in print() function with the one inside the quotes
 * iteration takes a long time to calculate
 * from math import factorial: factorial(n) would return the factorial of n
+***
+## Basic Math 2 - 1978
+* set()
+    + efficiently remove duplicate values from a collection like a list
+    + perform common math operations like unions and intersections
