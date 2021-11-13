@@ -81,8 +81,9 @@
 * iteration takes a long time to calculate
 * from math import factorial: factorial(n) would return the factorial of n
 ***
-## Basic Math 2 - 1978, 2581, 11653, *1929, *4948, *9020, 1085, 3009, 4153, 3053
+## Basic Math 2 - 1978, 2581, 11653, *1929, *4948, *9020, 1085, 3009, 4153, 3053, *1002
 * set()
     + efficiently remove duplicate values from a collection like a list
     + perform common math operations like unions and intersections
 * 4948: n<i<=n*2 is a boolean type
+* 1002: abs(m): absolute value of m
