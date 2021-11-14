@@ -87,3 +87,7 @@
     + perform common math operations like unions and intersections
 * 4948: n<i<=n*2 is a boolean type
 * 1002: abs(m): absolute value of m
+***
+## Recursion - 10872
+* recursion: the process of defining something in terms of itself
+    + recursion function: function to call itself
