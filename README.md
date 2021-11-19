@@ -92,5 +92,5 @@
 * recursion: the process of defining something in terms of itself
     + recursion function: function to call itself
 ***
-## Brute force - *2798, *2231
+## Brute force - *2798, *2231, *7568
 * brute force: the cyberattack equivalent of trying every key on your key ring
