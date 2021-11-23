@@ -95,8 +95,13 @@
 ## Brute force - *2798, *2231, *7568, *1018, 1436
 * brute force: the cyberattack equivalent of trying every key on your key ring
 ***
-## Sorting - 2750
+## Sorting - 2750, 2751
 * sorted(): returns a sorted list of the specified iterable object
     + specify ascending or descending order
         - sorted(iterable) or sorted(iterable,reverse=True)
-* Strings are sorted alphabetically, and numbers are sorted numerically
+* strings are sorted alphabetically, and numbers are sorted numerically
+* difference btwn 2750 and 2751: size of N
+    + takes more time to sort: use sys.stdin.readline and sys.stdout.write
+        - include new-line character
+        - save the input value in the buffer at once
+        - directly declare the variable type
