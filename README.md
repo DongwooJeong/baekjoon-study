@@ -95,7 +95,7 @@
 ## Brute force - *2798, *2231, *7568, *1018, 1436
 * brute force: the cyberattack equivalent of trying every key on your key ring
 ***
-## Sorting - 2750, 2751
+## Sorting - 2750, 2751, *10809
 * sorted(): returns a sorted list of the specified iterable object
     + specify ascending or descending order
         - sorted(iterable) or sorted(iterable,reverse=True)
@@ -105,3 +105,13 @@
         - include new-line character
         - save the input value in the buffer at once
         - directly declare the variable type
+* Sorting algorithms
+    + O(n^2)
+        - Insertion sort: compare kth element with 1st to k-1th element and insert by its size
+        - Bubble sort: compare each element, starting with the first element and the second element, to the n-1 element and the nth element, until the array is aligned
+    + O(nlogn)
+        - Merge sort: binary divide the array up to each element and merge by comparing the size of the element
+        - Heapsort: make the array into a heap tree, arrange it in reverse order from the maximum value of the root
+    + Others
+        - Counting sort (O(n+k)): Save the frequency within the array of specific data at a location corresponding to the value of the data, create an accumulated array, and using the values of the accumulated array as an index, arrange the values of the existing array in order in a new array
+
