@@ -95,7 +95,7 @@
 ## Brute force - *2798, *2231, *7568, *1018, 1436
 * brute force: the cyberattack equivalent of trying every key on your key ring
 ***
-## Sorting - 2750, 2751, *10809
+## Sorting - 2750, 2751, *10809, *2108
 * sorted(): returns a sorted list of the specified iterable object
     + specify ascending or descending order
         - sorted(iterable) or sorted(iterable,reverse=True)
@@ -114,4 +114,26 @@
         - Heapsort: make the array into a heap tree, arrange it in reverse order from the maximum value of the root
     + Others
         - Counting sort (O(n+k)): Save the frequency within the array of specific data at a location corresponding to the value of the data, create an accumulated array, and using the values of the accumulated array as an index, arrange the values of the existing array in order in a new array
+* Stats
+    + mean
+    ```python
+        print(sum(anylist)/len(anylist))
+    ```
+    + median
+    ```python
+        print(list[len(anylist)//2])
+    ```
+    + mode
+        ```python
+        max(set(anylist), key = anylist.count)
+        ```
 
+        - use Counter module to create a dictionary indicating the frequency of each element in the list
+        ```python
+            from collections import Counter
+            print(Counter(anylist).most_common()[0][0]) 
+        ```
+    + range
+    ```python
+        print(max(list) - min(list))
+    ```
