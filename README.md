@@ -142,3 +142,10 @@
     print("a", end='')
     print("b")
     ```
+* how to sort dictionary
+    + sort(key=lambda x: (x[0])): sort the list by x[0]
+        - sort(key=lambda x: (x[0], x[1])): sort the list by x[0], and by x[1]
+    ```python
+        anylist.sort(key=lambda x: (x[0], x[1]))
+    ```
+
