@@ -148,4 +148,5 @@
     ```python
         anylist.sort(key=lambda x: (x[0], x[1]))
     ```
+    + sort(key=len) or sort(key=lambda x: len(x)): sort by length
 
