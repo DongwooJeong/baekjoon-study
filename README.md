@@ -95,7 +95,7 @@
 ## Brute force - *2798, *2231, *7568, *1018, 1436
 * brute force: the cyberattack equivalent of trying every key on your key ring
 ***
-## Sorting - 2750, 2751, *10809, *2108, 1427
+## Sorting - 2750, 2751, *10809, *2108, 1427, *11650, 11651
 * sorted(): returns a sorted list of the specified iterable object
     + specify ascending or descending order
         - sorted(iterable) or sorted(iterable,reverse=True)
