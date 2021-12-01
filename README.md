@@ -149,4 +149,16 @@
         anylist.sort(key=lambda x: (x[0], x[1]))
     ```
     + sort(key=len) or sort(key=lambda x: len(x)): sort by length
+***
+## Backtracking - *15649
+* backtracking: a method of attempting all combinations to solve problems with limited conditions, which is a method of examining trees with depth-first search and returning to the previous branch if there is no answer, mainly using recursion
+* 'separator'.join(list): combining all the elements(should be str type) in the list with the separator
+    ```python
+        anylist = ['a', 'b', 'c']
+        print(' '.join(anylist))
+    ```
+    + result
+    ```
+        a b c
+    ```
 

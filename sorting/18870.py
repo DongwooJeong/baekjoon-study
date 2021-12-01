@@ -3,7 +3,6 @@ num=list(map(int,input().split()))
 
 num2=sorted(list(set(num)))
 dictnum={num2[i]: i for i in range(len(num2))}
-print(num2)
-print(dictnum)
+
 for i in num:
     print(dictnum[i], end=' ')
