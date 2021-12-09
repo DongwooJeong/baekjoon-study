@@ -161,4 +161,6 @@
     ```
         a b c
     ```
-
+***
+## Dynamic programming - 1003
+* dynamic programming: a way to divide the given problem into several subproblems, to reduce the number of calculation and simplify the process
