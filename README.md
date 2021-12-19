@@ -162,5 +162,5 @@
         a b c
     ```
 ***
-## Dynamic programming - *1003, ***9184, *1904, 9461, *1149, 1932, *2579, *1463, *10844, *2156
+## Dynamic programming - *1003, ***9184, *1904, 9461, *1149, 1932, *2579, *1463, *10844, *2156, *11053
 * dynamic programming: a way to divide the given problem into several subproblems, to reduce the number of calculation and simplify the process
